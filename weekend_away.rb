@@ -1,3 +1,7 @@
+# (c) Roman Krasavtsev 2016
+
+# https://www.hackerrank.com/contests/booking-hack-a-holiday/challenges/weekend-away
+
 # Problem:
 
 # Pete is tired of spending his weekends at home and wants to leave 
@@ -64,8 +68,6 @@
 # In this case, there are two possible routes that are minimized in terms of
 # driving distance: 2 -> 3 -> 4 and 2 -> 4 -> 3, they both sum up to a total
 # driving distance of 4. They both contain 3 different locations.
-
-# https://www.hackerrank.com/contests/booking-hack-a-holiday/challenges/weekend-away
 
 t = gets.delete("\n").to_i
 
